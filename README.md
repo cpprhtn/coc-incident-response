@@ -42,6 +42,10 @@ Materials (licensed CC-BY-NC-SA) for the Otter Tech Code of Conduct Incident Res
 
 ### [volunteer-guide-to-incident-response](./volunteer-guide-to-incident-response)
 
+## PSF CoC
+
+[psf/community-code-of-conduct](https://github.com/psf/community-code-of-conduct)
+
 사고 대응 가이드
 
 
